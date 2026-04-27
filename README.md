@@ -18,3 +18,6 @@ Sou Desenvolvedor Front-End em formação e estudante do 5º semestre de Anális
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
+
+##  Contato
+https://www.linkedin.com/in/gustavo-cris%C3%B3stomo-0bbb93168/
