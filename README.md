@@ -2,9 +2,9 @@
 Sou Desenvolvedor Front-End em formação e estudante do 5º semestre de Análise e Desenvolvimento de Sistemas. Tenho conhecimento em desenvolvimento web, interfaces responsivas e UX/UI Design, buscando criar soluções modernas, funcionais e centradas na experiência do usuário.  
 
 ## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoCrisostomo&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCrisostomo&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCrisostomo&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCrisostomo&layout=compact&theme=chartreuse-dark&cache_seconds=1800)
 
 ##  Tecnologias
 
